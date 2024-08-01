@@ -14,6 +14,7 @@ How to Run 🏃‍♂️
 Get started quickly with the following commands:
 
 ```bash
+git clone https://github.com/mujju834/Mujjus-chess-AI.git
 cd AI-Project-1-Mini-Chess/Mini_Chess
 pip install -r requirements.txt
 python main.py
